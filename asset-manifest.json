@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/https//codesofC.github.io/reactplayer-deploy/static/css/main.51d8d8f9.css",
+    "main.js": "/https//codesofC.github.io/reactplayer-deploy/static/js/main.e866bef1.js",
+    "static/js/787.3dc06087.chunk.js": "/https//codesofC.github.io/reactplayer-deploy/static/js/787.3dc06087.chunk.js",
+    "static/media/akatsuki-rap.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/akatsuki-rap.c0ac3b139cbf687619ad.mp3",
+    "static/media/snk-op2.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/snk-op2.29be0533334f67cad5ca.mp3",
+    "static/media/bc-op3.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/bc-op3.43e0b60c06b2b76b7f2c.mp3",
+    "static/media/op-op1.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/op-op1.51c6c435fe215185eba7.mp3",
+    "static/media/op-op2.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/op-op2.90c9e5d91a8f00d4b55e.mp3",
+    "static/media/chainsawman-op1.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/chainsawman-op1.b97b94c1f9eb63c3bc8e.mp3",
+    "static/media/sds-op1.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/sds-op1.c801c7881f29283ac78e.mp3",
+    "static/media/ds-op3.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/ds-op3.fe08080ff42bbf89c637.mp3",
+    "static/media/bg1.jpg": "/https//codesofC.github.io/reactplayer-deploy/static/media/bg1.da768c8616400db2859a.jpg",
+    "static/media/ds-op2.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/ds-op2.df7dcc48cab2c86a9c54.mp3",
+    "static/media/ds-op1.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/ds-op1.28f96fb9d756c5e33371.mp3",
+    "static/media/Naruto-op6.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/Naruto-op6.01f64bd90811bc3f68f7.mp3",
+    "static/media/Naruto-op16.mp3": "/https//codesofC.github.io/reactplayer-deploy/static/media/Naruto-op16.9828496a71b88d3a9887.mp3",
+    "index.html": "/https//codesofC.github.io/reactplayer-deploy/index.html",
+    "main.51d8d8f9.css.map": "/https//codesofC.github.io/reactplayer-deploy/static/css/main.51d8d8f9.css.map",
+    "main.e866bef1.js.map": "/https//codesofC.github.io/reactplayer-deploy/static/js/main.e866bef1.js.map",
+    "787.3dc06087.chunk.js.map": "/https//codesofC.github.io/reactplayer-deploy/static/js/787.3dc06087.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51d8d8f9.css",
+    "static/js/main.e866bef1.js"
+  ]
+}
